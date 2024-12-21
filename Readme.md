@@ -8,6 +8,9 @@ EarnTokensByWatching is a blockchain-based application that allows users to earn
 
 ## Contract Address
 0xe36107a87509244a6b94943b29fab2d4e435ce14
+![image](https://github.com/user-attachments/assets/c2ac1cc4-67a2-4649-a713-e54d0a7bb97b)
+
+
 
 ## Project Vision
 The project envisions a fair and transparent system where users are rewarded for their time and attention spent consuming content. By leveraging blockchain technology, this system ensures trustless operations and provides a unique way to engage audiences in decentralized ecosystems.
